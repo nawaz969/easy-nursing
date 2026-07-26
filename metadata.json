@@ -1,0 +1,6 @@
+{
+  "name": "BSN AI Nursing Student Daily Planner",
+  "description": "Vibrant, modern single-page dashboard and study hub for BSN nursing students with NCLEX prep, clinical rotation log, pharmacology drug card generator, ABG interpreter, NANDA care plan tool, and AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
