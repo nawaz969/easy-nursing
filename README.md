@@ -29,9 +29,6 @@ The project aims to reduce study stress by providing multiple nursing learning r
 LIVE deployed URL railway
 https://easy-nursing-production-407a.up.railway.app/
 
-URL github 
-https://github.com/nawaz969/easy-nursing.git
-
 Key Features
 AI NCLEX Question Generator
 Generates practice MCQs with explanations.
@@ -101,6 +98,12 @@ AI Drug Card Generator with Black Box Warnings & Nursing Considerations
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/cc0c4270-42ec-4a7b-89d3-a51d691ee94c" />
 Clinical Shift & Skills Tracker Dashboard
 <img width="483" height="605" alt="image" src="https://github.com/user-attachments/assets/2c8cad27-c84a-4d0d-8c2e-0d17d598ffee" />
+
+
+URL github 
+https://github.com/nawaz969/easy-nursing.git
+
+
 The application is structured as a full-stack Node.js project using React (with Vite) for the front-end, styled with a warm neutral Tailwind CSS scheme, and backed by a lightweight Express server to safely proxy AI endpoints.
 To run this project locally, follow these steps:
 1. Prerequisites
