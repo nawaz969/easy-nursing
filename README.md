@@ -26,14 +26,11 @@ The AI Nursing Student Planner is a web application designed to help nursing stu
 ed study tools with productivity features, allowing students to manage daily learning tasks, generate practice questions, review drug information, create nursing care plans, and stay focused using a built-in study timer.
 The project aims to reduce study stress by providing multiple nursing learning resources in one platform, improving learning efficiency and helping students prepare for both academic exams and clinical practice.
 
-LIVE deployed URL vercel
-https://nursing-planner-vj2i.vercel.app/
-
-LIVE deployed URL github 
-https://github.com/nawaz969/easy-nursing.git
-
 LIVE deployed URL railway
 https://easy-nursing-production-407a.up.railway.app/
+
+URL github 
+https://github.com/nawaz969/easy-nursing.git
 
 Key Features
 AI NCLEX Question Generator
